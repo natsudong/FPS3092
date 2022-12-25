@@ -1,1 +1,5 @@
 Content/Downtown_West/Textures/Asphalt/T_asphalt_base_normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Downtown_West/Textures/Asphalt/T_asphalt_damaged_normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Downtown_West/Textures/Building_Cafe_A/Bricks_A/T_Bricks_a_normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Downtown_West/Textures/Building_Cafe_A/Bricks_B/T_Bricks_b_normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Downtown_West/Textures/Building_Cafe_A/Bricks_B/T_Bricks_b_v2_normal.uasset filter=lfs diff=lfs merge=lfs -text
